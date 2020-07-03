@@ -82,7 +82,7 @@
     var request = new XMLHttpRequest()
 
     // Open a new connection, using the GET request on the URL endpoint
-    request.open('GET', 'https://api.github.com/users/JoaoSilgo/repos', true)
+    request.open('GET', 'https://api.github.com/users/JoaoSilgo/repos?per_page=100', true)
 
     request.onload = function () {
       // Begin accessing JSON data here
