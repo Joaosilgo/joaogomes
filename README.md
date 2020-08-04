@@ -1,9 +1,9 @@
-# joaogomes
+#  joaogomes :small_orange_diamond:
 
 
 
 
-:small_orange_diamond
+
 
 
 Portfolio
